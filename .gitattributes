@@ -1,0 +1,8 @@
+# Handle text files
+* text=auto
+
+# Handle specific file types
+*.js text
+*.json text
+*.css text
+*.html text
