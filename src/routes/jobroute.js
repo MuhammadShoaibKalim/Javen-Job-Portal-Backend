@@ -142,4 +142,4 @@ router.get('/jobs/calculate', async (req, res) => {
   }
 });
 
-export default rout
+export default router; 
